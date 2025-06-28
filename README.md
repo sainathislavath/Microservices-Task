@@ -95,3 +95,35 @@ submission/ <br />
     ```bash
     docker-compose down --volumes --remove-orphans
     docker-compose up --build
+
+## Images
+![alt text](docker-compse-output.png)
+
+![alt text](docker_desktop_container_view.png)
+
+![alt text](docker_ps.png)
+
+1. User Service API
+
+![alt text](user_service_api.png)
+
+2. Product Service API
+
+![alt text](product_service_api.png)
+
+3. Order Service API
+
+![alt text](order_service_api.png)
+
+4. Gateway Service
+
+    4. 1.  Gateway Service - User API
+    ![alt text](gateway_service_user_api.png)
+
+    4. 2.  Gateway Service - Product API
+
+    ![alt text](gateway_service_product_api.png)
+
+    4. 3. Gateway Service - Order API
+
+    ![alt text](gateway_service_order_api.png)
