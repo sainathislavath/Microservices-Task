@@ -117,13 +117,13 @@ submission/ <br />
 
 4. Gateway Service
 
-    4. 1.  Gateway Service - User API
+    4.  Gateway Service - User API
     ![alt text](gateway_service_user_api.png)
 
-    4. 2.  Gateway Service - Product API
+    4.  Gateway Service - Product API
 
     ![alt text](gateway_service_product_api.png)
 
-    4. 3. Gateway Service - Order API
+    4. Gateway Service - Order API
 
     ![alt text](gateway_service_order_api.png)
