@@ -28,24 +28,24 @@ This project demonstrates the containerization of four Node.js microservices usi
 submission/ <br />
 ├── user-service/ <br />
 │ ├── Dockerfile <br />
-│ ├── index.js <br />
+│ ├── app.js <br />
 │ └── package.json <br />
 ├── product-service/ <br />
 │ ├── Dockerfile <br />
-│ ├── index.js <br />
+│ ├── app.js <br />
 │ └── package.json <br />
 ├── order-service/ <br />
 │ ├── Dockerfile <br />
-│ ├── index.js <br />
+│ ├── app.js <br />
 │ └── package.json <br />
 ├── gateway-service/<br />
 │ ├── Dockerfile<br />
-│ ├── index.js<br />
+│ ├── app.js<br />
 │ └── package.json<br />
 ├── docker-compose.yml<br />
 └── README.md
 
-> Ensure each service has its own working `index.js` and `package.json`.
+> Ensure each service has its own working `app.js` and `package.json`.
 
 ---
 
